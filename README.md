@@ -1,4 +1,4 @@
-# stanford-CS330-2022
+# Stanford-CS330
 This repo contains homework assignment solutions for the Stanford [CS 330](https://cs330.stanford.edu/) 
 (Deep Multi-Task and Meta Learning) class offered in Fall 2022.  A brief summary of key concepts covered in different 
 assignments is summarized below.
@@ -46,3 +46,5 @@ these algorithms, for example different pormpting techniques for in-context lear
 [3] Snell, J., Swersky, K., & Zemel, R. (2017). Prototypical networks for few-shot learning. Advances in neural information processing systems, 30.
 
 [4] Finn, C., Abbeel, P., & Levine, S. (2017, July). Model-agnostic meta-learning for fast adaptation of deep networks. In International conference on machine learning (pp. 1126-1135). PMLR.
+
+Credits for [initial repo](https://github.com/Jaskanwal/stanford-CS330-2022) where further experiments are being performed.
