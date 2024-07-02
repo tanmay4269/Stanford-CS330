@@ -47,4 +47,4 @@ these algorithms, for example different pormpting techniques for in-context lear
 
 [4] Finn, C., Abbeel, P., & Levine, S. (2017, July). Model-agnostic meta-learning for fast adaptation of deep networks. In International conference on machine learning (pp. 1126-1135). PMLR.
 
-Credits for [initial repo](https://github.com/Jaskanwal/stanford-CS330-2022) where further experiments are being performed.
+Credits to [initial repo](https://github.com/Jaskanwal/stanford-CS330-2022) where further experiments are being performed.
